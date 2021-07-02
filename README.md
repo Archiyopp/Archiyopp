@@ -5,7 +5,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archiyopp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 <!---
 Archiyopp/Archiyopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
