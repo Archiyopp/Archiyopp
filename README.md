@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development and geology.
 - 🌱 I’m currently learning React and its ecosystem
 - 📫 Check out my portfolio in https://portfolio-arch.netlify.app/
-- 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arcihyopp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 <!---
