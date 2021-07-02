@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and its ecosystem
 - 📫 Check out my portfolio in https://portfolio-arch.netlify.app/
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archiyopp&show_icons=true&&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Archiyopp&show_icons=true&&theme=vision-friendly-dark&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
