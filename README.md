@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Archiyopp
 - 👀 I’m interested in web development and geology.
 - 🌱 I’m currently working with React
-- 📫 Check out my portfolio at https://archiyopp.com
+- 📫 Check out my portfolio at https://www.archiyopp.com
 <!---  
 https://portfolio-arch.netlify.app/
 --->
